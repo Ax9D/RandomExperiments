@@ -1,0 +1,28 @@
+<script>
+/*var x=new XMLHttpRequest();
+x.open("POST", 'http://ptsv2.com/t/diso3324/post', true);
+x.send();*/
+var terms=[];
+
+let sum=0;
+
+function computeTerm(t,n)
+{
+	terms.push(-Math.pow(-1,t)*1/(2*t-1));
+	if(t==n)
+		computePI();
+}
+function computePI()
+{
+	for(let i=0;i<terms.length;i++)
+		sum+=terms[i];
+	console.log(sum*4);
+}
+
+for(let i=1;i<=1000000;i++)
+{
+	setTimeout(computeTerm,0,i,1000000);
+}
+let s=0;
+console.log(s*4);
+</script>

@@ -1,0 +1,14 @@
+import os;
+ 
+def unzip(n):
+    while (input("Yes?")=="y"):
+        comex("p7zip -d "+'"'+n+'"');
+        comex("rm "+'"'+n+'"');
+        comex("mv * "+'"lemons"');
+     
+     
+def comex(x):
+    os.system(x);
+    
+
+unzip("password.x.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.p.o.n.m.l.k.j.i.h.g.f.e.d.c.b.a.a");

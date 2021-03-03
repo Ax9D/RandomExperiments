@@ -1,0 +1,352 @@
+load 0 to var1
+Push from var1
+load 17488 to var1
+Push from var1
+load 16758 to var1
+Push from var1
+load 16599 to var1
+Push from var1
+load 16285 to var1
+Push from var1
+load 16094 to var1
+Push from var1
+load 15505 to var1
+Push from var1
+load 15417 to var1
+Push from var1
+load 14832 to var1
+Push from var1
+load 14450 to var1
+Push from var1
+load 13893 to var1
+Push from var1
+load 13926 to var1
+Push from var1
+load 13437 to var1
+Push from var1
+load 12833 to var1
+Push from var1
+load 12741 to var1
+Push from var1
+load 12533 to var1
+Push from var1
+load 11504 to var1
+Push from var1
+load 11342 to var1
+Push from var1
+load 10503 to var1
+Push from var1
+load 10550 to var1
+Push from var1
+load 10319 to var1
+Push from var1
+load 975 to var1
+Push from var1
+load 1007 to var1
+Push from var1
+load 892 to var1
+Push from var1
+load 893 to var1
+Push from var1
+load 660 to var1
+Push from var1
+load 743 to var1
+Push from var1
+load 267 to var1
+Push from var1
+load 344 to var1
+Push from var1
+load 264 to var1
+Push from var1
+load 339 to var1
+Push from var1
+load 208 to var1
+Push from var1
+load 216 to var1
+Push from var1
+load 242 to var1
+Push from var1
+load 172 to var1
+Push from var1
+load 74 to var1
+Push from var1
+load 49 to var1
+Push from var1
+load 119 to var1
+Push from var1
+load 113 to var1
+Push from var1
+load 119 to var1
+Push from var1
+load 106 to var1
+Push from var1
+load 1 to var2
+--------
+🖋💠🔶🎌🚩🏁
+-------- 
+Pop to var1
+Push from var2
+Push from var1
+load 389 to var1
+Push from var1
+Push from var2
+jump_to 🏁🚩🎌💠🔶
+xor 
+print_top 
+load 1 to var1
+Push from var1
+add 
+Pop to var2
+if_not_zero
+jump_to 💠🔶🎌🚩🏁
+endif
+load 98426 to var1
+Push from var1
+load 97850 to var1
+Push from var1
+load 97604 to var1
+Push from var1
+load 97280 to var1
+Push from var1
+load 96815 to var1
+Push from var1
+load 96443 to var1
+Push from var1
+load 96354 to var1
+Push from var1
+load 95934 to var1
+Push from var1
+load 94865 to var1
+Push from var1
+load 94952 to var1
+Push from var1
+load 94669 to var1
+Push from var1
+load 94440 to var1
+Push from var1
+load 93969 to var1
+Push from var1
+load 93766 to var1
+Push from var1
+load 99 to var2
+--------
+🖋💠🏁🎌🔶🚩
+-------- 
+Pop to var1
+Push from var2
+Push from var1
+load 568 to var1
+Push from var1
+Push from var2
+jump_to 🏁🚩🎌💠🔶
+xor 
+print_top 
+load 1 to var1
+Push from var1
+add 
+Pop to var2
+if_not_zero
+jump_to 💠🏁🎌🔶🚩
+endif
+load 101141058 to var1
+Push from var1
+load 101060206 to var1
+Push from var1
+load 101030055 to var1
+Push from var1
+load 100998966 to var1
+Push from var1
+load 100887990 to var1
+Push from var1
+load 100767085 to var1
+Push from var1
+load 100707036 to var1
+Push from var1
+load 100656111 to var1
+Push from var1
+load 100404094 to var1
+Push from var1
+load 100160922 to var1
+Push from var1
+load 100131019 to var1
+Push from var1
+load 100111100 to var1
+Push from var1
+load 100059926 to var1
+Push from var1
+load 100049982 to var1
+Push from var1
+load 100030045 to var1
+Push from var1
+load 9989997 to var1
+Push from var1
+load 9981858 to var1
+Push from var1
+load 9980815 to var1
+Push from var1
+load 9978842 to var1
+Push from var1
+load 9965794 to var1
+Push from var1
+load 9957564 to var1
+Push from var1
+load 9938304 to var1
+Push from var1
+load 9935427 to var1
+Push from var1
+load 9932289 to var1
+Push from var1
+load 9931494 to var1
+Push from var1
+load 9927388 to var1
+Push from var1
+load 9926376 to var1
+Push from var1
+load 9923213 to var1
+Push from var1
+load 9921394 to var1
+Push from var1
+load 9919154 to var1
+Push from var1
+load 9918082 to var1
+Push from var1
+load 9916239 to var1
+Push from var1
+load 765 to var2
+--------
+🖋🚩💠🎌🔶🏁
+-------- 
+Pop to var1
+Push from var2
+Push from var1
+load 1023 to var1
+Push from var1
+Push from var2
+jump_to 🏁🚩🎌💠🔶
+xor 
+print_top 
+load 1 to var1
+Push from var1
+add 
+Pop to var2
+if_not_zero
+jump_to 🚩💠🎌🔶🏁
+endif
+exit 
+--------
+🖋🏁🚩🎌💠🔶
+-------- 
+load 2 to var1
+Push from var1
+--------
+🖋💠🎌🏁🚩🔶
+-------- 
+jump_to 🚩🔶🏁🎌💠
+--------
+🖋🔶🎌🚩💠🏁
+-------- 
+ifzero
+Pop 
+jump_to 🔶🚩💠🏁🎌
+endif
+Pop 
+jump_to 🎌🏁💠🔶🚩
+--------
+🖋🎌🏁🚩🔶💠
+-------- 
+ifzero
+Pop 
+jump_to 🔶🚩💠🏁🎌
+endif
+Pop 
+Pop to var1
+load 1 to var2
+Push from var2
+sub 
+ifzero
+Pop 
+Pop to var2
+Push from var1
+Push from var2
+jump_top 
+endif
+Push from var1
+--------
+🖋🔶🚩💠🏁🎌
+-------- 
+load 1 to var2
+Push from var2
+add 
+jump_to 💠🎌🏁🚩🔶
+--------
+🖋🚩🔶🏁🎌💠
+-------- 
+clone 
+load 2 to var1
+Push from var1
+--------
+🖋🎌🚩💠🔶🏁
+-------- 
+sub 
+ifzero
+Pop 
+load 1 to var1
+Push from var1
+jump_to 🔶🎌🚩💠🏁
+endif
+Pop 
+clone 
+Push from var1
+modulo 
+ifzero
+jump_to 🔶🎌🚩💠🏁
+endif
+Pop 
+clone 
+Push from var1
+load 1 to var1
+Push from var1
+add 
+clone 
+Pop to var1
+jump_to 🎌🚩💠🔶🏁
+--------
+🖋🎌🏁💠🔶🚩
+-------- 
+clone 
+clone 
+load 0 to var2
+Push from var2
+--------
+🖋🏁💠🔶🚩🎌
+-------- 
+load 10 to var1
+Push from var1
+multiply 
+Pop to var2
+Push from var1
+modulo 
+Push from var2
+add 
+Pop to var2
+Pop to var1
+clone 
+Push from var2
+sub 
+ifzero
+Pop 
+load 1 to var2
+Push from var2
+jump_to 🎌🏁🚩🔶💠
+endif
+Pop 
+Push from var1
+load 10 to var1
+Push from var1
+divide 
+ifzero
+jump_to 🎌🏁🚩🔶💠
+endif
+clone 
+Push from var2
+jump_to 🏁💠🔶🚩🎌

@@ -1,0 +1,13 @@
+=== Management Interface ===
+ 1) Service access
+ 2) Read EULA/patch notes
+ 3) Quit
+The following patchnotes were found:
+ - Version0.2
+ - Version0.3
+Which patchnotes should be shown?
+Error: No such file or directory
+=== Management Interface ===
+ 1) Service access
+ 2) Read EULA/patch notes
+ 3) Quit
